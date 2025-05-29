@@ -1,0 +1,12 @@
+{
+  "settlement": {
+    "id": "మొత్తం రకం",
+    "amountType": "సమంత వివరణ",
+    "amountDescription": "మొత్తం",
+    "amount": "ఆర్డర్ మొత్తం",
+    "orderAmount": "ఖర్చులు",
+    "expense": "నిమ్నపరిమాణం",
+    "settlementAmount": "కొనుగోలు చేసిన పరిమాణం",
+    "quantityPurchased": "అంగడికి పేరు"
+  }
+}
