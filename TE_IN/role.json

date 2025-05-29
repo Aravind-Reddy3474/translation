@@ -1,0 +1,13 @@
+{
+  "permission": {
+    "role.name": "భూమిక పేరు",
+    "role.code": "పాత్ర కోడ్",
+    "role.status": "స్థితి",
+    "role.status.all": "అన్ని",
+    "role.status.enabled": "సక్రియం",
+    "role.status.disabled": "దయచేసి పాత్ర పేరు నమోదు చేయండి",
+    "role.nameRequired": "ధ कृపయా పాత్ర కోడ్‌ని నమోదు చేయండి",
+    "role.codeRequired": "కృపయా ప్రారంభించిన స్థితిని ఎంచుకోండి",
+    "role.statusRequired": "సిరీస్"
+  }
+}
